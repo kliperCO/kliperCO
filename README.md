@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1280" alt="image" src="https://github.com/kliperCO/kliperCO/assets/103134080/89a0ba22-26c1-4a3f-b66c-11bde79c859d">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KliperCO=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
