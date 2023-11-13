@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kliperCO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%#00599C.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/-C++-white?logo=cplusplus)
